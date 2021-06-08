@@ -4,6 +4,8 @@
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
+	"meta": [
+	],
 	"sets": [
 		{ "format": "binary", "start": 0, "end": 3 }
 	]
