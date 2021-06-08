@@ -1,0 +1,10 @@
+{
+	"file": "https://raw.githubusercontent.com/davidpross/upset-tcr/main/rosati-2017.csv",
+	"name": "TCR clonotype overlap as detected by different methods as depicted in Figure 3a from Rosati et al, 2017.",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 3 }
+	]
+}
